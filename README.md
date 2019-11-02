@@ -1,4 +1,4 @@
-# MOAC Batch Transfer (batchtransferui)
+# MOAC Batch Transfer (batchtransfer-front)
 
 A MOAC Tool - Batch Transfer moac or ERC20 token (pure front-end)
 
