@@ -16,7 +16,7 @@
     "keccak": "^2.0.0",
     "quasar": "^1.0.0",
     "secp256k1": "^3.7.1",
-    "xlsx": "^0.15.1"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "@quasar/app": "^1.0.0",
